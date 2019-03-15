@@ -12,6 +12,10 @@ Make a simple bot for discord to playing music and more.
 * [Langage C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/).
 
+## Command
+
+* Hello -> Gif Hello there Obi Wan meme.
+
 ## Project's Member
 
 * LE COQ Guillaume
