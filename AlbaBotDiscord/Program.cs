@@ -59,7 +59,7 @@ namespace AlbaBotDiscord
 
         private async Task Client_Ready()
         {
-            await Client.SetGameAsync("Darksectoris", "https://www.sjustein.com/", StreamType.NotStreaming);
+            await Client.SetGameAsync("Darksectoris", "https://www.google.fr/", StreamType.NotStreaming);
         }
 
         private async Task Client_MessageReceived(SocketMessage MessageParam)
@@ -70,12 +70,12 @@ namespace AlbaBotDiscord
             if (Context.User.IsBot) return;
 
             int ArgPos = 0;
-            if (!(Message.HasStringPrefix("a!", ref ArgPos) || Message.HasMentionPrefix(Client.CurrentUser, ref ArgPos))) return;
+            if (!(Message.HasStringPrefix("?!", ref ArgPos) || Message.HasMentionPrefix(Client.CurrentUser, ref ArgPos))) return;
 
             var Result = await Commands.ExecuteAsync(Context, ArgPos);
             if (!Result.IsSuccess)
                 Console.WriteLine($"{DateTime.Now} dans commandes] Désolé, je ne peux pas éxécuter vôtre commande. Texte: {Context.Message.Content} | Erreur: {Result.ErrorReason}");
-                await Context.Channel.SendMessageAsync($"Désolé, je ne peux pas éxécuter vôtre commande. Texte: {Context.Message.Content} | Erreur: {Result.ErrorReason}");
+                //await Context.Channel.SendMessageAsync($"Désolé, je ne peux pas éxécuter vôtre commande. Texte: {Context.Message.Content} | Erreur: {Result.ErrorReason}");
         }
     }
 }
