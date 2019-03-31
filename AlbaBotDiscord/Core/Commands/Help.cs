@@ -18,6 +18,7 @@ namespace AlbaBotDiscord.Core.Commands
             comList.Add("?!Help ou ?!h || Affiche la liste des commandes.");
             comList.Add("?!Hello ou ?!ht || Dit bonjour.");
             comList.Add("?!BF ou ?!bf || Notifie joueurs de Battlefiel V.");
+            comList.Add("?!profile ou ?!pb || Description.");
             await Context.Channel.SendMessageAsync("Liste des commandes :");
             foreach (String coms in comList)
             {
