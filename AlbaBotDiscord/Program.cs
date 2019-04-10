@@ -60,6 +60,7 @@ namespace AlbaBotDiscord
         private async Task Client_Ready()
         {
             await Client.SetGameAsync("Darksectoris", "https://www.google.fr/", StreamType.NotStreaming);
+            await Client.SetStatusAsync(UserStatus.Online);
         }
 
         private async Task Client_MessageReceived(SocketMessage MessageParam)

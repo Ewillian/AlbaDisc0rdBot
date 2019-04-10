@@ -3,7 +3,7 @@
 
 ## Objectives
 
-Make a simple bot for discord to playing music and more.
+Simple bot who response users by calling it with the default prefix "?!".
 
 ## Prerequisites
 
@@ -14,7 +14,14 @@ Make a simple bot for discord to playing music and more.
 
 ## Command
 
-* Hello -> Gif Hello there Obi Wan meme.
+| Commands          | With prefix         | Description                                     |
+| ----------------- | ------------------- | ----------------------------------------------- |
+| Help              | ?!help \|\| ?!h     | Return the list of useable commands.            |
+| HelloThere        | ?!Hello \|\| ?!ht   | Return a gif of famous Obiwan's "Hello there".  |
+| ReinforcementCall | ?!BF \|\| ?!bf      | Call the role @Battlefield with a cool message. |
+| BotProfile        | ?!profile \|\| ?!pb | Return an embed with the bot information.       |
+
+
 
 ## Project's Member
 
