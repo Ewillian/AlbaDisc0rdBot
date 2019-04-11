@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+<appSettings>
+  <add key="Key1" value="..\..\img1.jpg" />
+  <add key="Key2" value="..\..\img2.jpg" />
+  <add key="Key3" value="..\..\img3.jpg" />
+  <add key="Key4" value="..\..\img4.jpg" />
+  <add key="Key5" value="..\..\img5.PNG" />
+  <add key="Key6" value="..\..\img6.jpg" />
+  <add key="Key7" value="..\..\img7.jpg" />
+  <add key="Key8" value="..\..\img8.PNG" />
+  <add key="Key9" value="..\..\img9.PNG" />
+  <add key="Key10" value="..\..\img10.PNG" />
+  <add key="Key11" value="..\..\img11.PNG" />
+  <add key="Key12" value="..\..\img12.PNG" />
+  <add key="Key13" value="..\..\img13.PNG" />
+  <add key="Key14" value="..\..\img14.PNG" />
+  <add key="Key15" value="..\..\img15.jpg" />
+  <add key="Key16" value="..\..\img16.jpg" />
+  <add key="Key17" value="..\..\img17.jpg" />
+  <add key="Key18" value="..\..\img18.jpg" />
+  <add key="Key19" value="..\..\img19.PNG" />
+  <add key="Key20" value="..\..\img20.PNG" />
+  <add key="Key21" value="..\..\img21.PNG" />
+  <add key="Key22" value="..\..\img22.jpg" />
+  <add key="Key23" value="..\..\img23.jpg" />
+  <add key="Key24" value="..\..\img24.PNG" />
+  <add key="Key25" value="..\..\img25.jpg" />
+  <add key="Key26" value="..\..\img26.PNG" />
+  <add key="Key27" value="..\..\img27.PNG" />
+  <add key="Key28" value="..\..\img28.PNG" />
+  <add key="Key29" value="..\..\img29.PNG" />
+</appSettings>
+</configuration>
