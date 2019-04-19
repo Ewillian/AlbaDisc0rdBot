@@ -23,14 +23,31 @@ Simple bot who response users by calling it with the default prefix "?!".
 | **BotProfile**        | `?!profile` \|\| `?!pb` | Return an embed with the bot information.       |
 | **RandomImg**         | `?!Image` || `?!img`    | Return an randomly an image.                    |
 
+## How commands works
+
+
+
 ## Results
 
 * `Help`
-  
+  ![Help Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/Help.png?raw=true)
+
 * `HelloThere`
+
+  ![Hello Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/Hello.png?raw=true)
+
 * `ReinforcementCall`
+  ![BF Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/BF.png?raw=true)
+
 * `BotProfile`
+  ![Bot Profile Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/profile.png?raw=true)
+
 * `RandomImg`
+
+  ![Image1 Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/image1.png?raw=true)
+  
+
+  ![Image2 Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/image2.png?raw=true)
 
 ## Project's Member
 
