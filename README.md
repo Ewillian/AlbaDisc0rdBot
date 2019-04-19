@@ -51,3 +51,5 @@ Simple bot who response users by calling it with the default prefix "?!".
 ## Project's Member
 
 * LE COQ Guillaume
+* CharaDesign from [Asly Draw](https://www.instagram.com/aslydraw/?hl=fr).
+
