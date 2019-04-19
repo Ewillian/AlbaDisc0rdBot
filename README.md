@@ -23,10 +23,6 @@ Simple bot who response users by calling it with the default prefix "?!".
 | **BotProfile**        | `?!profile` \|\| `?!pb` | Return an embed with the bot information.       |
 | **RandomImg**         | `?!Image` || `?!img`    | Return an randomly an image.                    |
 
-## How commands works
-
-
-
 ## Results
 
 * `Help`
