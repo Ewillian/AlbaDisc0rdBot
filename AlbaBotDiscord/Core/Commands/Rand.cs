@@ -9,12 +9,11 @@ namespace AlbaBotDiscord.Core.Commands
     public class Rand : ModuleBase<SocketCommandContext>
     {
         public string path;
-        [Command("Image"), Summary("Send random image.")]
+        [Command("Image"), Alias("img"), Summary("Send random image.")]
         public async Task RandomImg()
         {
             Random rnd = new Random();
             int rand = rnd.Next(1, 29);
-            
 
             XDocument doc = XDocument.Load(AppDomain.CurrentDomain.BaseDirectory + "../../../Core/Data/ImgParameters.xml");
             var keys = doc.Descendants("appSettings");

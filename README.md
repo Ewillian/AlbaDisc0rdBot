@@ -11,17 +11,26 @@ Simple bot who response users by calling it with the default prefix "?!".
 * Discord Dev keys
 * [Langage C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/)
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/).
+* [Discord.net API](https://github.com/discord-net/Discord.Net)
 
-## Command
+## Commands
 
-| Commands          | With prefix         | Description                                     |
-| ----------------- | ------------------- | ----------------------------------------------- |
-| Help              | ?!help \|\| ?!h     | Return the list of useable commands.            |
-| HelloThere        | ?!Hello \|\| ?!ht   | Return a gif of famous Obiwan's "Hello there".  |
-| ReinforcementCall | ?!BF \|\| ?!bf      | Call the role @Battlefield with a cool message. |
-| BotProfile        | ?!profile \|\| ?!pb | Return an embed with the bot information.       |
+| Commands              | With prefix             | Description                                     |
+| --------------------- | ----------------------- | ----------------------------------------------- |
+| **Help**              | `?!help` \|\| `?!h`     | Return the list of useable commands.            |
+| **HelloThere**        | `?!Hello` \|\| `?!ht`   | Return a gif of famous Obiwan's "Hello there".  |
+| **ReinforcementCall** | `?!BF` \|\| `?!bf`      | Call the role @Battlefield with a cool message. |
+| **BotProfile**        | `?!profile` \|\| `?!pb` | Return an embed with the bot information.       |
+| **RandomImg**         | `?!Image` || `?!img`    | Return an randomly an image.                    |
 
+## Results
 
+* `Help`
+  
+* `HelloThere`
+* `ReinforcementCall`
+* `BotProfile`
+* `RandomImg`
 
 ## Project's Member
 
