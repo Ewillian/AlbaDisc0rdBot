@@ -30,6 +30,7 @@ Simple bot who response users by calling it with the default prefix "?!".
 ## Results
 
 * `Help`
+
   ![Help Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/Help.png?raw=true)
 
 * `HelloThere`
@@ -37,9 +38,11 @@ Simple bot who response users by calling it with the default prefix "?!".
   ![Hello Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/Hello.png?raw=true)
 
 * `ReinforcementCall`
+
   ![BF Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/BF.png?raw=true)
 
 * `BotProfile`
+
   ![Bot Profile Example](https://github.com/Ewillian/AlbaDisc0rdBot/blob/master/AlbaBotDiscord/Image/profile.png?raw=true)
 
 * `RandomImg`
